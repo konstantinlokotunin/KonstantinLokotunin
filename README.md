@@ -110,5 +110,3 @@ German (Native) • Russian (Native) • English (C2) • French (C1)
 
 * 💼 LinkedIn: https://www.linkedin.com/in/konstantinlokotunin/
 * 📧 Email: [konstantin.lokotunin@sciencespo.fr](mailto:konstantin.lokotunin@sciencespo.fr)
-
----
