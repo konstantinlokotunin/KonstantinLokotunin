@@ -1,6 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=konstantinlokotunin&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=konstantinlokotunin&layout=compact)
+![Header](https://raw.githubusercontent.com/konstantinlokotunin/konstantinlokotunin/main/banner.png)
 
 # Hi, I'm Konstantin 👋
 
