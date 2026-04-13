@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/konstantinlokotunin/konstantinlokotunin/main/pexels-code-1839406_1920.jpg)
+![Header](https://raw.githubusercontent.com/konstantinlokotunin/konstantinlokotunin/main/your-paragraph-text.png)
 
 # Hi, I'm Konstantin 👋
 
