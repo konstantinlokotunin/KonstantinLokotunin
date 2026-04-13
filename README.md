@@ -2,7 +2,7 @@
 
 # Hi, I'm Konstantin 👋
 
-**Data Analyst | Reporting Specialist | Data Engineering & AI Development (in progress)**
+**Data Analyst | Data Engineering & AI Development (in progress)**
 Python • SQL • Data Pipelines • Visualization
 
 ---
