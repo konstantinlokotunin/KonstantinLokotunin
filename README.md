@@ -1,4 +1,4 @@
-[Header](https://raw.githubusercontent.com/konstantinlokotunin/konstantinlokotunin/main/Github_Profile_Banner.png)
+![Header](https://raw.githubusercontent.com/konstantinlokotunin/konstantinlokotunin/main/Github_Profile_Banner.png)
 
 # Hi, I'm Konstantin 👋
 
