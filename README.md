@@ -46,7 +46,7 @@ Currently expanding into:
 
 ## 📊 Featured Projects
 
-### 🌦️ Weather Analyzer
+### 🌦️ AtmosPulse
 
 End-to-end weather data pipeline: API ingestion → processing → analysis → visualization
 
@@ -54,7 +54,7 @@ End-to-end weather data pipeline: API ingestion → processing → analysis → 
 * Moving averages & anomaly detection
 * Real-world API integration
 
-👉 [View Project](https://github.com/YOUR_USERNAME/weather-analyzer)
+👉 [View Project]([(https://github.com/konstantinlokotunin/AtmosPulse)])
 
 ---
 
