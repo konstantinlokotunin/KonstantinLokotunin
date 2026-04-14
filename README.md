@@ -66,7 +66,7 @@ Business performance analytics using Python
 * Growth metrics & trend visualization
 * Insight-driven reporting
 
-👉 [View Project](https://github.com/YOUR_USERNAME/kpi-dashboard)
+👉 [View Project](https://github.com/konstantinlokotunin/kpi-dashboard)
 
 ---
 
@@ -78,7 +78,7 @@ Personal behavioral data analysis tool
 * Habit completion rates
 * Streak analysis
 
-👉 [View Project](https://github.com/YOUR_USERNAME/habit-tracker-analyzer)
+👉 [View Project](https://github.com/konstantinlokotunin/habit-tracker-analyzer)
 
 ---
 
