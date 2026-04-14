@@ -54,7 +54,7 @@ End-to-end weather data pipeline: API ingestion → processing → analysis → 
 * Moving averages & anomaly detection
 * Real-world API integration
 
-👉 [View Project]([(https://github.com/konstantinlokotunin/AtmosPulse)])
+👉 [View Project](https://github.com/konstantinlokotunin/AtmosPulse)
 
 ---
 
