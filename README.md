@@ -46,7 +46,7 @@ Currently expanding into:
 
 ## 📊 Featured Projects
 
-### 🌦️ AtmosPulse
+### 🌀🌦️ AtmosPulse
 
 End-to-end weather data pipeline: API ingestion → processing → analysis → visualization
 
