@@ -78,7 +78,7 @@ Personal behavioral data analysis tool
 * Habit completion rates
 * Streak analysis
 
-👉 [View Project](https://github.com/konstantinlokotunin/habit-tracker-analyzer)
+👉 [View Project](https://github.com/konstantinlokotunin/HabitFlux)
 
 ---
 
