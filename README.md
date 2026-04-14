@@ -66,7 +66,7 @@ Business performance analytics using Python
 * Growth metrics & trend visualization
 * Insight-driven reporting
 
-👉 [View Project](https://github.com/konstantinlokotunin/kpi-dashboard)
+👉 [View Project](https://github.com/konstantinlokotunin/MetricForge)
 
 ---
 
