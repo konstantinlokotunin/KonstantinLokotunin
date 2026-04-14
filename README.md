@@ -46,7 +46,7 @@ Currently expanding into:
 
 ## 📊 Featured Projects
 
-### 🌀🌦️ AtmosPulse
+### AtmosPulse 🌀🌦️— Weather Intelligence Engine (Python, API, Time-Series)
 
 End-to-end weather data pipeline: API ingestion → processing → analysis → visualization
 
@@ -58,7 +58,7 @@ End-to-end weather data pipeline: API ingestion → processing → analysis → 
 
 ---
 
-### 📈 KPI Dashboard
+### MetricForge 📊⚙️ — Business KPI Analytics Dashboard (NumPy, Matplotlib)
 
 Business performance analytics using Python
 
@@ -70,7 +70,7 @@ Business performance analytics using Python
 
 ---
 
-### 📊 Habit Tracker
+### 🧠📈 HabitFlux — Behavioral Tracking & Insights System (Python)
 
 Personal behavioral data analysis tool
 
