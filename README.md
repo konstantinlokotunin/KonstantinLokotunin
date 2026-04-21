@@ -48,11 +48,11 @@ Currently expanding into:
 
 ### ⚡🌍 Enerlytics — Energy Data Platform
 
-[...]
+End-to-end European fuel market data pipeline: Data Ingestion → Transformation → Analysis → Visualization → Insights
 
-* ...
-* ...
-* ...
+* Time-series analysis
+* Volatility tracking
+* Multi-country comparison
 
 👉 [View Project](https://github.com/konstantinlokotunin/Enerlytics)
 
