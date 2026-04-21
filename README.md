@@ -46,6 +46,16 @@ Currently expanding into:
 
 ## 📊 Featured Projects
 
+### ⚡🌍 Enerlytics — Energy Data Platform
+
+[...]
+
+* ...
+* ...
+* ...
+
+👉 [View Project](https://github.com/konstantinlokotunin/Enerlytics)
+
 ### AtmosPulse 🌀🌦️— Weather Intelligence Engine (Python, API, Time-Series)
 
 End-to-end weather data pipeline: API ingestion → processing → analysis → visualization
