@@ -2,8 +2,8 @@
 
 # Hi, I'm Konstantin 👋
 
-**Data & AI Engineer (in progress) | Market Intelligence & Analytics | Python, SQL, Power BI**
-Python • SQL • Data Pipelines • Visualization
+**Data & AI Engineer (in progress) | Market Intelligence & Analytics |**
+Python • SQL • Power BI • Visualization
 
 ---
 
