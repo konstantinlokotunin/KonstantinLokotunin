@@ -56,7 +56,7 @@ Currently expanding into:
 
 👉 [View Project](https://github.com/konstantinlokotunin/Enerlytics)
 
-### AtmosPulse 🌀🌦️— Weather Intelligence Engine (Python, API, Time-Series)
+### 🌀🌦️ AtmosPulse — Weather Intelligence Engine (Python, API, Time-Series)
 
 End-to-end weather data pipeline: API ingestion → processing → analysis → visualization
 
@@ -68,7 +68,7 @@ End-to-end weather data pipeline: API ingestion → processing → analysis → 
 
 ---
 
-### MetricForge 📊⚙️ — Business KPI Analytics Dashboard (NumPy, Matplotlib)
+### 📊⚙️ MetricForge — Business KPI Analytics Dashboard (NumPy, Matplotlib)
 
 Business performance analytics using Python
 
