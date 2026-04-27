@@ -2,7 +2,7 @@
 
 # Hi, I'm Konstantin 👋
 
-**Data & AI Engineer (in progress) | Market Intelligence & Analytics |**
+**Data Engineer | Data Pipelines, Analytics & Reporting |**
 Python • SQL • Power BI
 
 ---
@@ -48,21 +48,13 @@ Currently expanding into:
 
 ### ⚡🌍 Enerlytics — Energy Data Platform
 
-End-to-end European fuel market data pipeline: Data Ingestion → Transformation → Analysis → Visualization → Insights
-
-* Time-series analysis
-* Volatility tracking
-* Multi-country comparison
+Energy market intelligence dashboard analyzing European fuel prices, volatility, and macro trends using real-world EU data (Python, Streamlit).
 
 👉 [View Project](https://github.com/konstantinlokotunin/Enerlytics)
 
 ### 🌀🌦️ AtmosPulse — Weather Intelligence Engine (Python, API, Time-Series)
 
-End-to-end weather data pipeline: API ingestion → processing → analysis → visualization
-
-* Time-series analysis
-* Moving averages & anomaly detection
-* Real-world API integration
+Time-series weather analytics system for analyzing climate trends and environmental data using Python, APIs, and data visualization.
 
 👉 [View Project](https://github.com/konstantinlokotunin/AtmosPulse)
 
@@ -70,11 +62,7 @@ End-to-end weather data pipeline: API ingestion → processing → analysis → 
 
 ### 📊⚙️ MetricForge — Business KPI Analytics Dashboard (NumPy, Matplotlib)
 
-Business performance analytics using Python
-
-* Revenue, cost & profit analysis
-* Growth metrics & trend visualization
-* Insight-driven reporting
+Business analytics dashboard for KPI tracking, performance analysis, and data visualization using Python (Pandas, Matplotlib).
 
 👉 [View Project](https://github.com/konstantinlokotunin/MetricForge)
 
@@ -82,11 +70,7 @@ Business performance analytics using Python
 
 ### 🧠📈 HabitFlux — Behavioral Tracking & Insights System (Python)
 
-Personal behavioral data analysis tool
-
-* GitHub-style heatmap visualization
-* Habit completion rates
-* Streak analysis
+Data-driven habit tracking tool in Python — analyze daily and weekly streaks, completion rates, and visualize consistency with heatmaps.
 
 👉 [View Project](https://github.com/konstantinlokotunin/HabitFlux)
 
@@ -116,5 +100,7 @@ German (Native) • Russian (Native) • English (C2) • French (C1)
 
 ## 📫 Connect With Me
 
+
+* 🌐 Website: https://flowcv.me/konstantin-lokotunin
 * 💼 LinkedIn: https://www.linkedin.com/in/konstantinlokotunin/
 * 📧 Email: [konstantin.lokotunin@sciencespo.fr](mailto:konstantin.lokotunin@sciencespo.fr)
