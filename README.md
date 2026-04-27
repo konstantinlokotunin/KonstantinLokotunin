@@ -52,13 +52,13 @@ Energy market intelligence dashboard analyzing European fuel prices, volatility,
 
 👉 [View Project](https://github.com/konstantinlokotunin/Enerlytics)
 
+
 ### 🌀🌦️ AtmosPulse — Weather Intelligence Engine (Python, API, Time-Series)
 
 Time-series weather analytics system for analyzing climate trends and environmental data using Python, APIs, and data visualization.
 
 👉 [View Project](https://github.com/konstantinlokotunin/AtmosPulse)
 
----
 
 ### 📊⚙️ MetricForge — Business KPI Analytics Dashboard (NumPy, Matplotlib)
 
@@ -66,7 +66,6 @@ Business analytics dashboard for KPI tracking, performance analysis, and data vi
 
 👉 [View Project](https://github.com/konstantinlokotunin/MetricForge)
 
----
 
 ### 🧠📈 HabitFlux — Behavioral Tracking & Insights System (Python)
 
