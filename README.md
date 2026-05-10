@@ -2,7 +2,7 @@
 
 # Hi, I'm Konstantin 👋
 
-**Data Engineer | Data Pipelines, Analytics & Reporting |**
+**Data Analyst | Data Pipelines & Reporting | Python, SQL, Power BI**
 Python • SQL • Power BI
 
 ---
